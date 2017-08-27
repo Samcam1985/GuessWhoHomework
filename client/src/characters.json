@@ -23,5 +23,53 @@
       "hairColour": "Brown",
       "facialHair": "Yes",
       "house": "Lannister"
+    },
+    {
+      "id": "4",
+      "name": "Bran Stark",
+      "gender": "Male",
+      "hairColour": "Brown",
+      "facialHair": "No",
+      "house": "Stark"
+    },
+    {
+      "id": "5",
+      "name": "Cersei Lannister",
+      "gender": "Female",
+      "hairColour": "Blonde",
+      "facialHair": "No",
+      "house": "Lannister"
+    },
+    {
+      "id": "6",
+      "name": "Arya Stark",
+      "gender": "Female",
+      "hairColour": "Brown",
+      "facialHair": "No",
+      "house": "Stark"
+    },
+    {
+      "id": "7",
+      "name": "Joffrey Baratheon",
+      "gender": "Male",
+      "hairColour": "Blonde",
+      "facialHair": "No",
+      "house": "Baratheon"
+    },
+    {
+      "id": "8",
+      "name": "Jamie Lannister",
+      "gender": "Male",
+      "hairColour": "Brown",
+      "facialHair": "Yes",
+      "house": "Lannister"
+    },
+    {
+      "id": "9",
+      "name": "Robert Baratheon",
+      "gender": "Male",
+      "hairColour": "Brown",
+      "facialHair": "Yes",
+      "house": "Baratheon"
     }
   ]

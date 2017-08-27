@@ -1,5 +1,6 @@
 import React from 'react';
 import GuessSelector from '../components/GuessSelector.jsx'; 
+import Card from '../components/Card.jsx';
 
 var data = require('../characters.json');
 
@@ -20,8 +21,14 @@ componentDidMount() {
 }
 
 render() {
+
+    const characterCards = this.state.characters.map(function(character, index) {
+      return <Card character={character} key={index}></Card>;
+    });
+
     return (
       <div>
+        {characterCards}
         <GuessSelector characters={this.state.characters}></GuessSelector>
       </div>
     );
