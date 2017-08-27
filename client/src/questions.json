@@ -1,0 +1,69 @@
+
+[
+   {
+     "id": "0",
+     "text": "Are you Male?",
+     "value": "Male",
+     "property": "gender"
+   },
+   {
+     "id": "1",
+     "text": "Are you Female?",
+     "value": "Female",
+     "property": "gender"
+   },
+   {
+     "id": "2",
+     "text": "Do you have Brown hair?",
+     "value": "Brown",
+     "property": "hairColour"
+   },
+   {
+     "id": "3",
+     "text": "Do you have Black hair?",
+     "value": "Black",
+     "property": "hairColour"
+   },
+   {
+     "id": "4",
+     "text": "Do you have Blonde hair?",
+     "value": "Blonde",
+     "property": "hairColour"
+   },
+   {
+     "id": "5",
+     "text": "Do you have Red hair?",
+     "value": "Red",
+     "property": "hairColour"
+   },
+   {
+     "id": "6",
+     "text": "Do you have Facial hair?",
+     "value": "",
+     "property": "facialHair"
+   },
+   {
+     "id": "7",
+     "text": "Are you House Stark?",
+     "value": "Stark",
+     "property": "house"
+   },
+   {
+     "id": "8",
+     "text": "Are you House Lannister?",
+     "value": "Lannister",
+     "property": "house"
+   },
+   {
+     "id": "9",
+     "text": "Are you House Baratheon?",
+     "value": "Baratheon",
+     "property": "house"
+   },
+   {
+     "id": "10",
+     "text": "Are you House Targaryen?",
+     "value": "Targaryen",
+     "property": "house"
+   }
+ ]
