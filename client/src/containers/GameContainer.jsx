@@ -28,6 +28,7 @@ render() {
 
     return (
       <div>
+      <h2>Game of Thrones Guess Who</h2>
         {characterCards}
         <GuessSelector characters={this.state.characters}></GuessSelector>
       </div>

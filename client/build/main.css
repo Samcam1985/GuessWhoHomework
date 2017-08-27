@@ -1,0 +1,15 @@
+
+.cardContainer
+{
+  margin: 5px;
+  box-shadow: 5px 5px 10px #ccc;
+  width: 120px;
+  height:180px;
+  float:left;
+}
+
+.cardName 
+{
+  width: 110px;
+  padding:4px;
+}

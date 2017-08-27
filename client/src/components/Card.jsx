@@ -10,14 +10,15 @@ class Card extends React.Component {
     this.gender = this.props.character.gender;
     this.hairColour = this.props.character.hairColour;
     this.facialHair = this.props.character.facialHair;
+    this.img = this.props.character.img;
     
   }
 
   render() {
     return (
-      <div>
-        <img/>
-        <p>{this.name}</p>
+      <div className="cardContainer">
+        <img src={this.img} />
+        <div className="cardName">{this.name}</div>
       </div>
     );
   }
