@@ -1,7 +1,7 @@
 
  [
     {
-      "id": "1",
+      "id": "0",
       "name": "Jon Snow",
       "gender": "Male",
       "hairColour": "Black",
@@ -10,7 +10,7 @@
       "img": "../images/Jon.jpeg"
     },
     {
-      "id": "2",
+      "id": "1",
       "name": "Daenerys Targaryen",
       "gender": "Female",
       "hairColour": "Blonde",
@@ -19,7 +19,7 @@
       "img": "../images/Daenarys.jpeg"
     },
     {
-      "id": "3",
+      "id": "2",
       "name": "Tyrion Lannister",
       "gender": "Male",
       "hairColour": "Brown",
@@ -28,7 +28,7 @@
       "img": "../images/Tyrion.jpeg"
     },
     {
-      "id": "4",
+      "id": "3",
       "name": "Bran Stark",
       "gender": "Male",
       "hairColour": "Brown",
@@ -37,7 +37,7 @@
       "img": "../images/Bran.jpeg"
     },
     {
-      "id": "5",
+      "id": "4",
       "name": "Cersei Lannister",
       "gender": "Female",
       "hairColour": "Blonde",
@@ -46,7 +46,7 @@
       "img": "../images/Cersei.jpeg"
     },
     {
-      "id": "6",
+      "id": "5",
       "name": "Arya Stark",
       "gender": "Female",
       "hairColour": "Brown",
@@ -55,7 +55,7 @@
       "img": "../images/Arya.jpeg"
     },
     {
-      "id": "7",
+      "id": "6",
       "name": "Joffrey Baratheon",
       "gender": "Male",
       "hairColour": "Blonde",
@@ -64,7 +64,7 @@
       "img": "../images/Joffrey.jpeg"
     },
     {
-      "id": "8",
+      "id": "7",
       "name": "Jamie Lannister",
       "gender": "Male",
       "hairColour": "Brown",
@@ -73,7 +73,7 @@
       "img": "../images/Jamie.jpeg"
     },
     {
-      "id": "9",
+      "id": "8",
       "name": "Robert Baratheon",
       "gender": "Male",
       "hairColour": "Brown",
