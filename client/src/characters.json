@@ -1,0 +1,27 @@
+
+ [
+    {
+      "id": "1",
+      "name": "Jon Snow",
+      "gender": "Male",
+      "hairColour": "Black",
+      "facialHair": "Yes",
+      "house": "Stark"
+    },
+    {
+      "id": "2",
+      "name": "Daenerys Targaryen",
+      "gender": "Female",
+      "hairColour": "Blonde",
+      "facialHair": "No",
+      "house": "Targaryen"
+    },
+    {
+      "id": "3",
+      "name": "Tyrion Lannister",
+      "gender": "Male",
+      "hairColour": "Brown",
+      "facialHair": "Yes",
+      "house": "Lannister"
+    }
+  ]
